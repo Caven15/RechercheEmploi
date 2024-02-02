@@ -1,0 +1,4 @@
+Intitulé du job	nom de l’entreprise		année de début et de fin de contrat
+Acteur		Hollywood		01/01/01 => Infinis
+Combattant	MonSuperRing		01/01/01 => Infinis
+Mercenaire	Expandables		01/01/01 => Infinis

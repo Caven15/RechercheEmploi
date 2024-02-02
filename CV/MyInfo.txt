@@ -1,0 +1,6 @@
+Nom 			Norris
+prénom			Chuck
+date de naissance		01/01/01
+adresse e-mail 		Badass01@gmail.com
+adresse postale 		Rue du combatant 31 
+numéro de téléphone	0475/12.34.56
